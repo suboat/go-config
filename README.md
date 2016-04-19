@@ -1,2 +1,5 @@
 # go-config
-A toolkit support multiple formats of configuration
+
+## v0.1
+
+## The project is in development :)
